@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@luhengchang228/nodejs-modules-conditional-exports": "^1.0.0"
+    "@luhengchang228/nodejs-modules-conditional-exports": "^1.0.0",
+    "@luhengchang228/nodejs-modules-subpath-exports": "^1.0.0"
   }
 }

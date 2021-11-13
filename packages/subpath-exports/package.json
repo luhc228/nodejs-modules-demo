@@ -1,0 +1,9 @@
+{
+  "name": "@luhengchang228/nodejs-modules-subpath-exports",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": {
+    ".": "./main.js",
+    "./submodule": "./lib/submodule.js"
+  }
+}
