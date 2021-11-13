@@ -1,0 +1,10 @@
+{
+  "name": "@luhengchang228/nodejs-modules-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@luhengchang228/nodejs-modules-conditional-exports": "^1.0.0"
+  }
+}

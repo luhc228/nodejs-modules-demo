@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-modules-monorepo",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "0.0.0",
+  "license": "MIT",
+  "packageManager": "yarn"
+}

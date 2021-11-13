@@ -1,0 +1,10 @@
+{
+  "name": "@luhengchang228/nodejs-modules-conditional-exports",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "import": "./main.js",
+    "require": "./main.cjs"
+  }
+}
